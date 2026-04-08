@@ -1,12 +1,60 @@
-- 👋 Hello, I’m @gabeht
-- 👀 I’m interested in Computer Science, Data Structures, Machine Learning/Neural Networks, and Software Engineering.
-- 🌱 I’m currently learning *Computer Organization and Architecture*, and *Software Analysis* at the University of Minnesota Duluth.
-- 💞️ I’m looking to collaborate on projects including Game Design, Machine Learning & Neural Networks, and Software Development.
-- 📫 How to reach me :
-  EMAIL: holte243@umn.edu
-  
+# Hey I'm Gabe! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-holte)
+### About Me
 
-<!---
-gabeht/gabeht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a student based out of the Twin Cities, pursuing my Bachelor's in **Computer Science** with a minor in **Electrical & Computer Engineering**.
+
+I align specifically with frontend development and design, UI/UX, 
+and curating how people interact with technology; watching in realtime as my idea comes to life.
+
+Beyond coding, I'm always eager to learn across all areas of computer science (not strictly programming) and genuinely enjoy collaborating with others.
+
+**If you're interested in reaching out or collaborating, you can shoot me an email at holte243@umn.edu**
+
+#### Not so boring stuff about me :
+- ✈️ I love to travel *(it’s a common theme across alot of my projects)*
+- 🤓 Currently learning TypeScript & Next.js
+- 🇲🇽 I'm a first generation Mexican American 
+- 🐶 I have two dogs *(even though I'm super allergic)*
+- 🏋️‍♀️ Working towards benching over 225lbs/100kg
+- 🧐 Currently Interested in learning : Cybersecurity and DBMS
+
+---
+
+### Tools & Tech
+
+#### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer)
+![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python)
+
+#### Backend & Services
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+#### Design Tools
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator)
+
+---
+
+### Projects
+
+#### 🔎 Currently Building
+
+- **TravelGallery** — Photo gallery web app showcasing travel photography  
+  *Tech:* React · JavaScript · Framer Motion · Vercel · [Lucide Icons](https://github.com/lucide-icons/lucide)
+
+#### ✅ Published
+
+- **Swoop** — iOS rideshare app connecting a community of college students to safer, cheaper, and more reliable transportation  
+  *Tech:* React · SwiftUI · Firebase Auth & Firestore  
+
+---
