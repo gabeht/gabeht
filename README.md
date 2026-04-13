@@ -55,6 +55,6 @@ Beyond coding, I'm always eager to learn across all areas of computer science (n
 #### ✅ Published
 
 - **Swoop** — iOS rideshare app connecting a community of college students to safer, cheaper, and more reliable transportation  
-  *Tech:* React · SwiftUI · Firebase Auth & Firestore  
+  *Tech:* SwiftUI · Firebase Auth & Firestore  
 
 ---
