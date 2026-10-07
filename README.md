@@ -3,20 +3,7 @@
 
 I'm a student based out of the Twin Cities, pursuing my Bachelor's in **Computer Science** with a minor in **Electrical & Computer Engineering**.
 
-I align specifically with frontend development and design, UI/UX, 
-and curating how people interact with technology; watching in realtime as my idea comes to life.
-
-Beyond coding, I'm always eager to learn across all areas of computer science (not strictly programming) and genuinely enjoy collaborating with others.
-
-**If you're interested in reaching out or collaborating, you can shoot me an email at holte243@umn.edu**
-
-#### Not so boring stuff about me :
-- ✈️ I love to travel *(it’s a common theme across alot of my projects)*
-- 🤓 Currently learning TypeScript & Next.js
-- 🇲🇽 I'm a first generation Mexican American 
-- 🐶 I have two dogs *(even though I'm super allergic)*
-- 🏋️‍♀️ Working towards benching over 225lbs/100kg
-- 🧐 Currently Interested in learning : Cybersecurity and DBMS
+If you're interested in reaching out or collaborating, you can shoot me an email at holte243@umn.edu
 
 ---
 
