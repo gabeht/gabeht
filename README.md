@@ -34,14 +34,19 @@ If you're interested in reaching out or collaborating, you can shoot me an email
 
 ### Projects
 
-#### 🔎 Currently Building
-
-- **TravelGallery** — Photo gallery web app showcasing travel photography  
-  *Tech:* React · JavaScript · Framer Motion · Vercel · [Lucide Icons](https://github.com/lucide-icons/lucide)
 
 #### ✅ Published
 
+- **TravelGallery** — Photo gallery web app showcasing my travel photography · [Check it out here ↗](https://tgallery.pages.dev)  
+  *Tech:* React · JavaScript · Framer Motion · Cloudflare Pages · [Lucide Icons](https://github.com/lucide-icons/lucide)
+
 - **Swoop** — iOS rideshare app connecting a community of college students to safer, cheaper, and more reliable transportation  
-  *Tech:* SwiftUI · Firebase Auth & Firestore  
+  *Tech:* SwiftUI · Firebase Auth & Firestore
+
+#### 🔎 Currently Building
+
+- **STAT3411 Poker Odds Calculator** — Texas Hold'em odds calculator that simulates 10,000+ hands per scenario  
+  *Tech:* Python · [PokerKit](https://github.com/uoftcprg/pokerkit)
+
 
 ---
