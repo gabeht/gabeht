@@ -28,7 +28,6 @@ If you're interested in reaching out or collaborating, you can shoot me an email
 #### Design Tools
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator)
 
 ---
 
